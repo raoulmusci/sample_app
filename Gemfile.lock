@@ -98,6 +98,5 @@ DEPENDENCIES
   rails (= 3.0.9)
   rspec
   rspec-rails
-  sqlite3
   sqlite3-ruby
   webrat (= 0.7.1)
